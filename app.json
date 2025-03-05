@@ -39,8 +39,7 @@
       "typedRoutes": true
     },
     "extra": {
-      // "apiUrl": "https://server-reserve-api.onrender.com",
-      "apiUrl": "http://192.168.8.121:5000",
+      "apiUrl": "https://server-reserve-api.onrender.com",
       "router": {
         "origin": false
       },
